@@ -63,7 +63,7 @@ ul {
 
 .form_input,
 .form_btn {
-    padding: 15px 0;
+    padding: 15px;
     width: 30%;
     outline: none;
     border: 1px solid #808080;
@@ -74,4 +74,16 @@ ul {
     background-color: green;
     color: #fff;
     cursor: pointer;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
 }
